@@ -3,6 +3,7 @@
 
 Folder structure for kicking off a new Sass/scss project.
 
+```
 * **base/**
   * _colors.scss
   * _reset.scss
@@ -35,3 +36,4 @@ Folder structure for kicking off a new Sass/scss project.
 * **vendors/**
   * _bootstrap.scss
   * _jquery-ui.scss
+```
